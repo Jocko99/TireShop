@@ -1,0 +1,4 @@
+User-agent: * 
+Disallow: /logic/
+Disallow /admin.php/
+Sitemap: http://svetguma.epizy.com/sitemap.xml 

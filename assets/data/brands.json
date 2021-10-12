@@ -1,0 +1,26 @@
+[
+    {
+        "naziv":"Bridgestone",
+        "slika":"assets/images/bridgstone/bridgestone.png"
+    },
+    {
+        "naziv":"Michelin",
+        "slika":"assets/images/micheline/michelinL.png"
+    },
+    {
+        "naziv":"Pirelli",
+        "slika":"assets/images/pireli/pirelli.png"
+    },
+    {
+        "naziv":"Tigar",
+        "slika":"assets/images/tigar/tigar.png"
+    },
+    {
+        "naziv":"Hankook",
+        "slika":"assets/images/hankook/hankook.png"
+    },
+    {
+        "naziv":"Goodyear",
+        "slika":"assets/images/goodyear/goodyear.png"
+    }
+]

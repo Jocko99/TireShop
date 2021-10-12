@@ -1,0 +1,22 @@
+[
+    {
+        "ime":"Početna",
+        "putanja":"index.html",
+        "aktivan":true
+    },
+    {
+        "ime":"Gume",
+        "putanja":"gume.html",
+        "aktivan":false
+    },
+    {
+        "ime":"O nama",
+        "putanja":"onama.html",
+        "aktivan":false
+    },
+    {
+        "ime":"Kontakt",
+        "putanja":"kontakt.html",
+        "aktivan":false
+    }
+]
